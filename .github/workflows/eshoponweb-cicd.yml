@@ -9,7 +9,7 @@ env:
   LOCATION: westus3
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 32ba25f6-429c-45b1-877f-61889a668b2d
-  WEBAPP-NAME: az400-webapp-github
+  WEBAPP-NAME: az400-webapp-20230919class
 
 
 jobs:
